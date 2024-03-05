@@ -18,9 +18,12 @@
 
 [Notion Main](https://xpexpe.notion.site/WhaTap-afbbbcee7b684b38a1072868cd2a2470)
 
-## 1일 차 관련
+## 1일 차
 
 [1일 차 과제 진행 중 기록](https://xpexpe.notion.site/WhaTap-1-b7036a2d2c0a4bb9bb9cf31a4421f56d)
 
 [NoMessageBodyWriterFoundFailure Exception 관련 Issue](https://github.com/dduneon/whatap-labs-task-product/issues/2)
 
+## 2일 차
+
+[2일 차 과제 진행 중 기록](https://xpexpe.notion.site/WhaTap-2-71d34ca634934ec5afe4162ad8bcc635?pvs=4)
