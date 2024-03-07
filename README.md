@@ -27,3 +27,7 @@
 ## 2일 차
 
 [2일 차 과제 진행 중 기록](https://xpexpe.notion.site/WhaTap-2-71d34ca634934ec5afe4162ad8bcc635?pvs=4)
+
+## 3일 차
+
+[3일 차 과제 진행 중 기록](https://xpexpe.notion.site/WhaTap-3-c2df5bdc4a944c31a468b1dcd2b6e4df?pvs=4)
