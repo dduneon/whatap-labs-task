@@ -31,3 +31,15 @@
 ## 3일 차
 
 [3일 차 과제 진행 중 기록](https://xpexpe.notion.site/WhaTap-3-c2df5bdc4a944c31a468b1dcd2b6e4df?pvs=4)
+
+## 4일 차
+
+[4일 차 과제 진행 중 기록](https://xpexpe.notion.site/WhaTap-4-6e8af4e987cc49fc957863865942f85a?pvs=4)
+
+## 5일 차
+
+[5일 차 과제 진행 중 기록](https://xpexpe.notion.site/WhaTap-5-65c727b139c8467fa8e3ce2e8f17a409?pvs=4)
+
+## 6일 차
+
+[6일 차 과제 진행 중 기록]()
