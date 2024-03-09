@@ -42,4 +42,4 @@
 
 ## 6일 차
 
-[6일 차 과제 진행 중 기록]()
+[6일 차 과제 진행 중 기록](https://xpexpe.notion.site/WhaTap-6-dc24190e316242b584f7b94fe65001c7?pvs=4)
